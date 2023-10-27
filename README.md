@@ -1,5 +1,9 @@
 # Version Checker for Slime Rancher 2
 
+Inspired by toebeann' [Version Checker](https://www.nexusmods.com/subnautica/mods/467)
+
+
+
 **Important**: 
 
 This specific VersionChecker is designed for use with the Slime Rancher 2 game. If you are playing Slime Rancher, you can find the relevant version here: (**soon**).
@@ -11,7 +15,7 @@ VersionChecker is a lightweight utility that makes keeping your mods up-to-date 
 ## Key Features
 
 - Receive in-game alerts when updates become available for your installed mods.
-- Choose from various update check frequencies, such as hourly, daily, weekly, or only at startup. Adjust these settings within the in-game mod options menu.
+- Choose from various update check frequencies, such as hourly, daily, weekly, or only at startup. Adjust these settings in UserData config.
 
 ## Installation Guide
 

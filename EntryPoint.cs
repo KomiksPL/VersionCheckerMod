@@ -16,7 +16,7 @@ public class EntryPoint : MelonMod
  
 
         WebClient webClient = new WebClient();
-        var versionChecker = Newtonsoft.Json.JsonConvert.DeserializeObject<Dictionary<string, string>>(webClient.DownloadString("https://raw.githubusercontent.com/KomiksPL/VersionCheckerMod/main/modConnections.txt?token=GHSAT0AAAAAACE234QMXE4QB6WJUYP56YB4ZJ3P6GQ"));
+        var versionChecker = Newtonsoft.Json.JsonConvert.DeserializeObject<Dictionary<string, string>>(webClient.DownloadString("https://raw.githubusercontent.com/KomiksPL/VersionCheckerMod/main/modConnections.txt"));
         foreach (var registeredMelon in MelonMod.RegisteredMelons)
         {
             var infoDownloadLink = registeredMelon.Info.DownloadLink;
