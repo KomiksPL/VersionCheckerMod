@@ -24,7 +24,7 @@ Installing VersionChecker is straightforward:
 1. Make sure you have MelonLoader
 2. Place the VersionChecker dll in your Mods folder.
 
-With these steps completed, you'll be ready to receive timely mod update notifications directly within your Subnautica game.
+With these steps completed, you'll be ready to receive timely mod update notifications directly within your Slime Rancher 2 game.
 
 ## Instructions for Mod Developers
 
